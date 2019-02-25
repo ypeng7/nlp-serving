@@ -1,0 +1,6 @@
+tensorflow
+torch
+numpy
+sklearn
+flask
+flask-cors
