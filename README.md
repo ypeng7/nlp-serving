@@ -17,3 +17,8 @@ REST-like endpoint: <model-name>/predict
 Endpoint auto-generated from the model's __signature.json__
 JSON encoding by default
 
+## Introduction
+
+NLP-Serving is the generic and easy-to-use serving service for NLP machine learning models.
+
+* [x] Support scikit-learn models.
